@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import { Header } from './components/Header'
-import { Footer } from './components/Footer'
+import { Header } from './_components/Header'
+import { Footer } from './_components/Footer'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Clock, HandshakeIcon, CheckSquare } from 'lucide-react'
